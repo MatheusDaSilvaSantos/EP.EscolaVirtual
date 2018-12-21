@@ -1,0 +1,6 @@
+d:\Users\Renato\Documents\Visual Studio 2017\Projects\Arquitetura_III\EscolaVirtual.Logistica.Domain\bin\Debug\EscolaVirtual.Logistica.Domain.dll
+d:\Users\Renato\Documents\Visual Studio 2017\Projects\Arquitetura_III\EscolaVirtual.Logistica.Domain\bin\Debug\EscolaVirtual.Logistica.Domain.pdb
+d:\Users\Renato\Documents\Visual Studio 2017\Projects\Arquitetura_III\EscolaVirtual.Logistica.Domain\obj\Debug\EscolaVirtual.Logistica.Domain.csproj.CoreCompileInputs.cache
+d:\Users\Renato\Documents\Visual Studio 2017\Projects\Arquitetura_III\EscolaVirtual.Logistica.Domain\obj\Debug\EscolaVirtual.Logistica.Domain.dll
+d:\Users\Renato\Documents\Visual Studio 2017\Projects\Arquitetura_III\EscolaVirtual.Logistica.Domain\obj\Debug\EscolaVirtual.Logistica.Domain.pdb
+d:\Users\Renato\Documents\Visual Studio 2017\Projects\Arquitetura_III\EscolaVirtual.Logistica.Domain\obj\Debug\EscolaVirtual.Logistica.Domain.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+d:\Users\Renato\Documents\Visual Studio 2017\Projects\Arquitetura_III\EscolaVirtual.Core.Domain\bin\Debug\EscolaVirtual.Core.Domain.dll
+d:\Users\Renato\Documents\Visual Studio 2017\Projects\Arquitetura_III\EscolaVirtual.Core.Domain\bin\Debug\EscolaVirtual.Core.Domain.pdb
+d:\Users\Renato\Documents\Visual Studio 2017\Projects\Arquitetura_III\EscolaVirtual.Core.Domain\obj\Debug\EscolaVirtual.Core.Domain.csproj.CoreCompileInputs.cache
+d:\Users\Renato\Documents\Visual Studio 2017\Projects\Arquitetura_III\EscolaVirtual.Core.Domain\obj\Debug\EscolaVirtual.Core.Domain.dll
+d:\Users\Renato\Documents\Visual Studio 2017\Projects\Arquitetura_III\EscolaVirtual.Core.Domain\obj\Debug\EscolaVirtual.Core.Domain.pdb
+d:\Users\Renato\Documents\Visual Studio 2017\Projects\Arquitetura_III\EscolaVirtual.Core.Domain\obj\Debug\EscolaVirtual.Core.Domain.csprojResolveAssemblyReference.cache
